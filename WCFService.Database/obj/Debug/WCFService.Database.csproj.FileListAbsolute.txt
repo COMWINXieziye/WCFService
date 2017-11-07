@@ -1,0 +1,4 @@
+D:\Work\CCS\WCFService\WCFService.Database\bin\Debug\WCFService.Database.dll
+D:\Work\CCS\WCFService\WCFService.Database\bin\Debug\WCFService.Database.pdb
+D:\Work\CCS\WCFService\WCFService.Database\obj\Debug\WCFService.Database.dll
+D:\Work\CCS\WCFService\WCFService.Database\obj\Debug\WCFService.Database.pdb

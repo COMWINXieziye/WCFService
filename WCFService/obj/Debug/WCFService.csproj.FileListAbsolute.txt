@@ -1,0 +1,7 @@
+D:\Work\CCS\WCFService\WCFService\bin\Debug\WCFService.dll
+D:\Work\CCS\WCFService\WCFService\bin\Debug\WCFService.pdb
+D:\Work\CCS\WCFService\WCFService\bin\Debug\WCFService.Controller.dll
+D:\Work\CCS\WCFService\WCFService\bin\Debug\WCFService.Controller.pdb
+D:\Work\CCS\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+D:\Work\CCS\WCFService\WCFService\obj\Debug\WCFService.dll
+D:\Work\CCS\WCFService\WCFService\obj\Debug\WCFService.pdb

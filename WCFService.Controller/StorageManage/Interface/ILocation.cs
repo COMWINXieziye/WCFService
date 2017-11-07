@@ -14,5 +14,7 @@ namespace WCFService.Controller.StorageManage.Interface
 
         public string LocationUnLock(string scenenName, int locationId);
 
+
+
     }
 }
